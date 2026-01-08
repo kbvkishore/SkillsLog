@@ -30,7 +30,7 @@ const AboutUs = () => {
                     <div className="flex flex-col md:flex-row items-center gap-8">
                         
                         <div>
-                            <h3 className="text-xl font-bold mb-2">Subham Rahar</h3>
+                            <h3 className="text-xl font-bold mb-2">KBV Kishore</h3>
                             <p className="text-gray-300 mb-4">
                                 Full Stack Developer
                             </p>
