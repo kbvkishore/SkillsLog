@@ -40,32 +40,26 @@ const ContactUs = () => {
 
                             {/* Social Links */}
                             <div className="space-y-6">
-                                <a
-                                    href="mailto:subhamrahar22@gmail.com"
-                                    className="flex items-center gap-4 text-gray-300 hover:text-[#b2ea37] transition-colors"
-                                >
-                                    <Mail size={24} />
-                                    <span>subhamrahar22@gmail.com</span>
-                                </a>
+                                
 
                                 <a
-                                    href="https://github.com/Subhamk2004"
+                                    href="https://github.com/kbvkishore"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-4 text-gray-300 hover:text-[#b2ea37] transition-colors"
                                 >
                                     <Github size={24} />
-                                    <span>Subhamk2004</span>
+                                    <span>kbvkishore</span>
                                 </a>
 
                                 <a
-                                    href="https://linkedin.com/in/subham-kumar-73b98b252"
+                                    href="https://www.linkedin.com/in/kbv-kishore"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-4 text-gray-300 hover:text-[#b2ea37] transition-colors"
                                 >
                                     <Linkedin size={24} />
-                                    <span>Subham Kumar</span>
+                                    <span>KBV Kishore</span>
                                 </a>
                             </div>
                         </div>
